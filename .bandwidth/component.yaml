@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  schemaVersion: v1.0.0
+  name: cypress-github-action-test
+  description: GitHub Action for running Cypress end-to-end & component tests
+  annotations:
+    github.com/project-slug: Bandwidth/cypress-github-action-test
+    organization: BW
+    costCenter: Development - Software Infra
+spec:
+  type: GitHub Action
+  owner: github/band-swi
+  lifecycle: Available
