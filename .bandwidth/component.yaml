@@ -6,6 +6,7 @@ metadata:
   description: GitHub Action for running Cypress end-to-end & component tests
   annotations:
     github.com/project-slug: Bandwidth/cypress-github-action-test
+    bandwidth.com/languages: Node.js,Shell
     organization: BW
     costCenter: Development - Software Infra
 spec:
